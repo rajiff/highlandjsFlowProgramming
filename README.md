@@ -2,5 +2,5 @@
 
 
 #### To run this program, execute it like this
-node > _
-node > node flowProgramming.js
+     node > _
+     node > node flowProgramming.js
